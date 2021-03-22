@@ -1,0 +1,13 @@
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\bin\Debug\Proxy.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\bin\Debug\Data.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\bin\Debug\Model.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\bin\Debug\Util.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\bin\Debug\Data.pdb
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\bin\Debug\Model.pdb
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\bin\Debug\Util.pdb
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\obj\Debug\Proxy.csproj.CopyComplete
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\obj\Debug\Proxy.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Proxy\obj\Debug\Proxy.pdb

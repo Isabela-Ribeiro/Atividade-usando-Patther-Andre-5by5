@@ -1,0 +1,11 @@
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\bin\Debug\Data.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\bin\Debug\Data.pdb
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\obj\Debug\Data.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\obj\Debug\Data.pdb
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\bin\Debug\Model.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\bin\Debug\Util.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\bin\Debug\Model.pdb
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\bin\Debug\Util.pdb
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Data\obj\Debug\Data.csproj.CopyComplete
